@@ -5,6 +5,8 @@ package sadsd;
  */
 public class Ct {
     public static void main(String[] args) {
+        int a =1;
+
         System.out.println("ha");
     }
 
